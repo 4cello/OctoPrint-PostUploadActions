@@ -18,10 +18,10 @@ plugin_version = "0.1.0"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
-plugin_description = """TODO"""
+plugin_description = "Executes actions after a file is uploaded via the REST api"
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Julian"
+plugin_author = "4cello"
 
 # The plugin's author's mail address.
 plugin_author_email = "se.spaminator@gmail.com"
